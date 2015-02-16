@@ -20,4 +20,4 @@ using auth0 JsonWebToken
 * git push heroku master
 * heroku open
 
-### [DEMO](https://pacific-reaches-6372.herokuapp.com/)
+### [DEMO](https://shrouded-castle-2979.herokuapp.com/)
