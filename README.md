@@ -19,3 +19,5 @@ using auth0 JsonWebToken
 * heroku addons:add mongolab
 * git push heroku master
 * heroku open
+
+### [DEMO](https://pacific-reaches-6372.herokuapp.com/)
