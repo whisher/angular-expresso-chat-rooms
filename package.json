@@ -3,7 +3,7 @@
   "name": "angular-expresso-chat-rooms",
   "email": "io@ilwebdifabio.it",
   "url": "http://ilwebdifabio.it",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/whisher/angular-expresso-chat-rooms",
   "description": "just a run and up mean stack.",
   "bugs": "https://github.com/whisher/angular-expresso-chat-rooms/issues",
@@ -12,7 +12,7 @@
     "url": "git@github.com:whisher/angular-expresso-chat-rooms.git"
   },
   "scripts": {
-    "postinstall": "bower cache clean && bower install"
+    "start": "node server.js"
   },
   "license": "Apache License",
   "dependencies": {
