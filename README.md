@@ -15,3 +15,7 @@ using auth0 JsonWebToken
 * npm install
 * bower install
 * gulp --release
+* heroku create
+* heroku addons:add mongolab
+* git push heroku master
+* heroku open
